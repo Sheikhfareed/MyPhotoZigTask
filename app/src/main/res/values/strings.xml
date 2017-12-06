@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MyPhotoZigTask</string>
+    <string name="go_to_settings">Open Settings</string>
+    <string name="reason_location_permission"></string>
+    <string name="reason_storage_permission"></string>
+    <string name="str_retry">Open Settings</string>
+    <string name="dismiss">Open Settings</string>
+    dismiss
+
+
+</resources>
